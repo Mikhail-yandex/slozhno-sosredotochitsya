@@ -9,6 +9,7 @@
   --text-color: #f1b2ce;
   --main-title-color: #db00ff;
   --decor-text: #000028;
+  --button-border-transparent: rgba(255, 0, 112, 0.4);
   --font-family: IBM Plex mono;
   --section-padding: clamp(0.625rem, 0.0286rem + 2.5445vw, 1.25rem);
   --content-margin-block: clamp(40px, 1.3073rem + 5.0891vw, 60px);

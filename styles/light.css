@@ -15,6 +15,7 @@
   --text-color: #353430;
   --main-title-color: #ffc2e6;
   --decor-text: #353430;
+  --button-border-transparent: rgba(50, 49, 45, 0.4);
   --bg-image: url(../images/cover-image-light.png);
 }
 
@@ -36,6 +37,7 @@
     --text-color: #353430;
     --main-title-color: #ffc2e6;
     --decor-text: #353430;
+    --button-border-transparent: rgba(50, 49, 45, 0.4);
     --bg-image: url(../images/cover-image-light.png);
   }
 
